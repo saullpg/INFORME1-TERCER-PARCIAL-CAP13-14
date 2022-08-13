@@ -25,9 +25,7 @@
 
 ![4](https://user-images.githubusercontent.com/105374903/184516070-559a2680-0880-4db4-a3f9-175d6da83036.jpg)
 
-6 ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico
-cuya área de sección transversal mide 10x10<sup>-5</sup> m2 y tiene longitud de 0.05 m? La permeabilidad
-del núcleo es de 1.2x10<sup>-6</sup>.
+6 ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10x10<sup>-5</sup> m2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.2x10<sup>-6</sup>.
 
 ![6](https://user-images.githubusercontent.com/105374903/184516076-e7bfcac4-2b9f-4edc-bfe8-971a3b93f7bc.jpg)
 
