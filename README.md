@@ -179,8 +179,7 @@ del devanado secundario al devanado primario.
 
 ![28b](https://user-images.githubusercontent.com/105374903/184516193-f2745316-8747-494a-94e5-44a63982b1e6.jpg)
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios
-para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
 
 ![30a](https://user-images.githubusercontent.com/105374903/184516196-fe68f0f6-0442-4598-83af-f2df923dca17.jpg)
 
