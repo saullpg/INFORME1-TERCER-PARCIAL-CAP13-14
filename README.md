@@ -12,6 +12,18 @@
 
 #### 2. MARCO TEORICO
 
+![1](https://user-images.githubusercontent.com/105374903/184520665-59527ce9-12d1-423f-bea9-658c5828d52d.jpg)
+
+![2](https://user-images.githubusercontent.com/105374903/184520668-2b8ee093-4b13-47ec-a38d-8c39e1de035b.jpg)
+
+![3](https://user-images.githubusercontent.com/105374903/184520669-3b235e83-bceb-4029-8416-e53927d1c0d7.jpg)
+
+![4](https://user-images.githubusercontent.com/105374903/184520673-baf88c6d-e6c6-41c4-a079-f81925ec4236.jpg)
+
+![5](https://user-images.githubusercontent.com/105374903/184520679-941f2a90-1bf8-468f-8385-18ebd89f30b2.jpg)
+
+![6](https://user-images.githubusercontent.com/105374903/184520681-d26c7dcb-ac3c-4791-94f8-c31af8a2b4d4.jpg)
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ### EJERCICIOS CAPITULO 13
