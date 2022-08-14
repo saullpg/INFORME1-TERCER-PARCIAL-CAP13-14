@@ -12,7 +12,7 @@
 
 #### 2. MARCO TEORICO
 
-![1](https://user-images.githubusercontent.com/105374903/184520665-59527ce9-12d1-423f-bea9-658c5828d52d.jpg)
+![Infografía de Proceso Proyecto en Papel Resaltado Blanco](https://user-images.githubusercontent.com/105374903/184520751-1b7dc9c5-cb67-44fc-b3c8-af43126d0f62.jpg)
 
 ![2](https://user-images.githubusercontent.com/105374903/184520668-2b8ee093-4b13-47ec-a38d-8c39e1de035b.jpg)
 
