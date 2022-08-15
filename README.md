@@ -24,6 +24,19 @@
 
 ![6](https://user-images.githubusercontent.com/105374903/184520681-d26c7dcb-ac3c-4791-94f8-c31af8a2b4d4.jpg)
 
+![1](https://user-images.githubusercontent.com/105374903/184560212-4ef67c40-b85d-4e29-9cb0-1cce4186003f.jpg)
+
+![2](https://user-images.githubusercontent.com/105374903/184560221-b86c77cb-a88b-4317-a23e-430d95a50a92.jpg)
+
+![3](https://user-images.githubusercontent.com/105374903/184560226-9d9e77c8-c60d-4243-a7d1-586ebd258c04.jpg)
+
+![4](https://user-images.githubusercontent.com/105374903/184560233-92fcb37e-6e0e-47a3-b34e-cd9e39952242.jpg)
+
+![5](https://user-images.githubusercontent.com/105374903/184560236-272ffe3c-4a2a-4c79-9119-d40488f321c6.jpg)
+
+![6](https://user-images.githubusercontent.com/105374903/184560240-c85b1492-6c9f-4819-8a0f-86c9528ded60.jpg)
+
+
 #### 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ### EJERCICIOS CAPITULO 13
