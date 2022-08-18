@@ -232,6 +232,8 @@ El devanado secundario esta parcialmente en cortocircuito. Existe una corriente 
 
 #### 4. VIDEO
 
+https://www.youtube.com/watch?v=icOr6JbPs-8
+
 #### 5. CONCLUSIONES
 
 - Un inductor se opone al cambio de su propia corriente.
