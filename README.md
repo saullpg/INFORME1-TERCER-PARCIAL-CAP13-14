@@ -8,7 +8,11 @@
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
-- Realizar divisores de voltaje con cargas resistivas.
+- Describir la construcción y las características básicas de un inductor.
+- Analizar inductores dispuestos en serie y en paralelo.
+- Analizar circuitos inductivos cd y ca.
+- Analizar el efecto de una carga resistiva a través del devanado secundario.
+- Describir cómo los transformadores incrementan y disminuyen el voltaje.
 
 #### 2. MARCO TEORICO
 
@@ -229,6 +233,15 @@ El devanado secundario esta parcialmente en cortocircuito. Existe una corriente 
 #### 4. VIDEO
 
 #### 5. CONCLUSIONES
+
+- Un inductor se opone al cambio de su propia corriente.
+- Los inductores se suman en serie.
+- Los voltajes y las corrientes crecientes y menguantes siguen curvas exponenciales.
+- En un inductor, la potencia real es cero.
+- Un transformador normal consta de dos o más bobinas acopladas magnéticamente en un núcleo común.
+- Un transformador no puede incrementar la potencia.
+- Si el voltaje se eleva, la corriente se reduce y viceversa.
+- Las polaridades relativas de los voltajes primario y secundario son determinadas por la dirección de los devanados alrededor del núcleo.
 
 #### 6. BIBLIOGRAFIA
 Floyd, T. L. (2007). Principios de Circuitos Eléctricos (8va Edición ed.). (L. Cruz Castillo, Ed.) México: Cámara Nacional de la Industria Editorial Mexicana.
