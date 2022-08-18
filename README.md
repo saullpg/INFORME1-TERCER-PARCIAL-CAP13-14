@@ -4,7 +4,7 @@
 
 ##### 1.1. OBJETIVO GENERAL
 
-- Reconocer las relaciones que hay en un circuito serie y en un circuito paralelo.
+- Analizar las caracteristicas que tiene inductores y transformadores en conecciones CA y CD.
 
 ##### 1.2. OBJETIVOS ESPECIFICOS
 
